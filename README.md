@@ -20,5 +20,5 @@
 ###
 
 <div align="center">
-  <img src="[https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation](https://mahfujur-rahman-0.github.io/Snake-animation/)" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
 </div>
