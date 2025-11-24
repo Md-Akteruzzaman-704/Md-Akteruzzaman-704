@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=NaeemBolchhi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://ik.imagekit.io/ecomart/Git-Profile-readme-image/Progress-banner.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Mahfujur-Rahman-0/Progress-svg-for-profile/refs/heads/main/progress-svg-for-profile.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
