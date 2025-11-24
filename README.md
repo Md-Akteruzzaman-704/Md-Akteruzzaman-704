@@ -20,5 +20,5 @@
 ###
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+  <img src="https://ik.imagekit.io/ecomart/Git-Profile-readme-image/Snake.svg" />
 </div>
