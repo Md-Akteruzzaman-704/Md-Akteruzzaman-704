@@ -10,11 +10,14 @@
 ###
 
 <div align="center">
-  <img src="https://ik.imagekit.io/ecomart/Git-Profile-readme-image/js-script.svg" height="30" alt="javascript logo" />
+  
+ 
+  <img src="https://ik.imagekit.io/ecomart/Git-Profile-readme-image/html.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://ik.imagekit.io/ecomart/Git-Profile-readme-image/css.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://ik.imagekit.io/ecomart/Git-Profile-readme-image/html.svg" height="30" alt="html5 logo" />
+  <img src="https://ik.imagekit.io/ecomart/Git-Profile-readme-image/js-script.svg" height="30" alt="javascript logo" />
+  
   
 </div>
 
